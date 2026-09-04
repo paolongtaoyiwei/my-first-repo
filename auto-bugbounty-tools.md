@@ -90,3 +90,7 @@ sqlmap -m urls.txt --batch
 ```
 
 > 说明：`chaitin/xray` 官方仓库已归档/闭源化，社区版仍可复刻使用；`binganao/Flow` 已把以上工具封装成 Docker 一键工作流，适合快速上手。
+
+---
+
+*最后更新：2026-08-29 · 数据源：GitHub REST API · 由 DSH agent 生成*
